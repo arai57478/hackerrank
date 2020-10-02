@@ -1,4 +1,4 @@
-print("Your date of birth (mm dd yyyy)")
+print("Your date of birth (mm/dd/yyyy)")
 Date_of_birth = input("--->")
 
 print("Today's date: (mm dd yyyy)")
